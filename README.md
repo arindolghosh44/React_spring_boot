@@ -1,4 +1,4 @@
-1.I,Arindol Ghosh created a advenced java project using servlet Jsp.
+1.I,Arindol Ghosh created a advenced java project using spring_boot,thymleaf,react.
 
 
 
